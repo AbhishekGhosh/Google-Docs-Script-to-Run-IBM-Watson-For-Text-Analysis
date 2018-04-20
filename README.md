@@ -1,6 +1,6 @@
 # Google Docs Script to Run IBM Watson For Text Analysis
 
-Here is ready to use Google Docs Script to Run IBM Watson For Text Analysis. Original was written by Amit Agarwal, however the script was not shared with GNU GPL 3.0 License restricting direct usage to his own demo.
+Here is ready to use Google Docs Script to Run IBM Watson For Text Analysis. Original was written by Amit Agarwal, however the script was not shared with GNU GPL 3.0 License restricting direct usage to his own demo. Full guide - [Using IBM Watson For Text Analysis with Google Docs](https://thecustomizewindows.com/2018/04/example-of-using-ibm-watson-for-text-analysis-with-google-docs/).
 
 For this script, you'll need :
 
